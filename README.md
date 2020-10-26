@@ -1,4 +1,4 @@
-# Problems
+# C++
 All problems listed. Pick or add one and start solving.
 
 ## Contribution Guidelines
